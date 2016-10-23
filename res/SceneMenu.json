@@ -1,0 +1,560 @@
+{
+  "ID": "ff483ed6-2d81-4464-a4c8-c91e8726cc8c",
+  "Version": "2.3.4",
+  "Name": "SceneMenu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 18,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "xuanguanbeijing.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 2.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0025,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 2.0,
+            "RightMargin": -2.0,
+            "Tag": 19,
+            "ActionTag": -1973227806,
+            "Size": {
+              "X": 800.0,
+              "Y": 480.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "fanhui2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "fanhui1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 94,
+            "Scale9Height": 32,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 100.0,
+              "Y": 410.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.125,
+              "Y": 0.8542
+            },
+            "PreSize": {
+              "X": 0.155,
+              "Y": 0.1125
+            },
+            "LeftMargin": 38.0,
+            "RightMargin": 638.0,
+            "TopMargin": 43.0,
+            "BottomMargin": 383.0,
+            "Tag": 21,
+            "ActionTag": 612662402,
+            "Size": {
+              "X": 124.0,
+              "Y": 54.0
+            },
+            "Name": "buttonReturn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 410.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8542
+            },
+            "PreSize": {
+              "X": 0.3562,
+              "Y": 0.2042
+            },
+            "LeftMargin": 257.5,
+            "RightMargin": 257.5,
+            "TopMargin": 21.0,
+            "BottomMargin": 361.0,
+            "Tag": 22,
+            "ActionTag": -261726836,
+            "Size": {
+              "X": 285.0,
+              "Y": 98.0
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "xiangzuo2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "xiangzuo1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 64,
+            "Scale9Height": 49,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 90.0,
+              "Y": 210.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1125,
+              "Y": 0.4375
+            },
+            "PreSize": {
+              "X": 0.1175,
+              "Y": 0.1479
+            },
+            "LeftMargin": 43.0,
+            "RightMargin": 663.0,
+            "TopMargin": 234.5,
+            "BottomMargin": 174.5,
+            "Tag": 25,
+            "ActionTag": 1858623440,
+            "Size": {
+              "X": 94.0,
+              "Y": 71.0
+            },
+            "Name": "buttonPageLeft",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "xiangyou2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "xiangyou1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 64,
+            "Scale9Height": 49,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 710.0,
+              "Y": 210.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8875,
+              "Y": 0.4375
+            },
+            "PreSize": {
+              "X": 0.1175,
+              "Y": 0.1479
+            },
+            "LeftMargin": 663.0,
+            "RightMargin": 43.0,
+            "TopMargin": 234.5,
+            "BottomMargin": 174.5,
+            "Tag": 26,
+            "ActionTag": 1661287196,
+            "Size": {
+              "X": 94.0,
+              "Y": 71.0
+            },
+            "Name": "buttonPageRight",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "baoxiang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 410.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8542
+            },
+            "PreSize": {
+              "X": 0.2125,
+              "Y": 0.1312
+            },
+            "LeftMargin": 315.0,
+            "RightMargin": 315.0,
+            "TopMargin": 38.5,
+            "BottomMargin": 378.5,
+            "Tag": 29,
+            "ActionTag": 1547612772,
+            "Size": {
+              "X": 170.0,
+              "Y": 63.0
+            },
+            "Name": "spriteTitle",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "kuang1.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "kuang1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 374,
+            "Scale9Height": 263,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 200.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4167
+            },
+            "PreSize": {
+              "X": 0.505,
+              "Y": 0.5938
+            },
+            "LeftMargin": 198.0,
+            "RightMargin": 198.0,
+            "TopMargin": 137.5,
+            "BottomMargin": 57.5,
+            "Tag": 18,
+            "ActionTag": -738976725,
+            "Size": {
+              "X": 404.0,
+              "Y": 285.0
+            },
+            "Name": "intoGame",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "tu0.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 396.0001,
+              "Y": 197.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.495,
+              "Y": 0.4104
+            },
+            "PreSize": {
+              "X": 0.3562,
+              "Y": 0.4708
+            },
+            "LeftMargin": 253.5001,
+            "RightMargin": 261.4999,
+            "TopMargin": 170.0,
+            "BottomMargin": 84.0,
+            "Tag": 19,
+            "ActionTag": -1947791601,
+            "Size": {
+              "X": 285.0,
+              "Y": 226.0
+            },
+            "Name": "spriteImage",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "progressMenu.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 336.0049,
+              "Y": 53.9895
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.42,
+              "Y": 0.1125
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 336.0049,
+            "RightMargin": 463.9951,
+            "TopMargin": 426.0105,
+            "BottomMargin": 53.9895,
+            "Tag": 46,
+            "ActionTag": -2085358382,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nodePoint",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 480.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "baoxiang.png",
+        "Default/Button_Disable.png",
+        "fanhui1.png",
+        "fanhui2.png",
+        "kuang1.png",
+        "progressMenu.json",
+        "shang.png",
+        "tu0.png",
+        "xiangyou1.png",
+        "xiangyou2.png",
+        "xiangzuo1.png",
+        "xiangzuo2.png",
+        "xuanguanbeijing.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

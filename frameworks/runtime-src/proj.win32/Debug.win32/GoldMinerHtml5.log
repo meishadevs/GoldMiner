@@ -1,0 +1,67 @@
+﻿生成启动时间为 2016/10/9 17:09:20。
+     1>项目“E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\GoldMinerHtml5.vcxproj”在节点 2 上(Build 个目标)。
+     1>PreBuildEvent:
+         xcopy "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\..\..\..\script" "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\\script" /D /E /I /F /Y
+         xcopy "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\..\..\..\src" "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\\src" /D /E /I /F /Y
+         xcopy "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\..\..\..\res" "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\\res" /D /E /I /F /Y
+         copy "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\..\..\..\main.js" "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\\" /Y
+         copy "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\..\..\..\project.json" "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\\" /Y
+         :VCEnd
+         复制了 0 个文件
+         E:\game\CocosProject\GoldMinerHtml5\src\Config.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\Config.js
+         E:\game\CocosProject\GoldMinerHtml5\src\GameAnimation.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\GameAnimation.js
+         E:\game\CocosProject\GoldMinerHtml5\src\GameLogic.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\GameLogic.js
+         E:\game\CocosProject\GoldMinerHtml5\src\GameUi.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\GameUi.js
+         E:\game\CocosProject\GoldMinerHtml5\src\Mineral.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\Mineral.js
+         E:\game\CocosProject\GoldMinerHtml5\src\resource.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\resource.js
+         E:\game\CocosProject\GoldMinerHtml5\src\SceneBaoXiangGuo.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\SceneBaoXiangGuo.js
+         E:\game\CocosProject\GoldMinerHtml5\src\SceneHuoYanShan.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\SceneHuoYanShan.js
+         E:\game\CocosProject\GoldMinerHtml5\src\SceneLingShan.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\SceneLingShan.js
+         E:\game\CocosProject\GoldMinerHtml5\src\SceneMenu.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\SceneMenu.js
+         E:\game\CocosProject\GoldMinerHtml5\src\SceneNvErGuo.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\SceneNvErGuo.js
+         E:\game\CocosProject\GoldMinerHtml5\src\SceneStart.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\SceneStart.js
+         E:\game\CocosProject\GoldMinerHtml5\src\SceneTongTianHe.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\SceneTongTianHe.js
+         E:\game\CocosProject\GoldMinerHtml5\src\Util.js -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\src\Util.js
+         复制了 14 个文件
+         E:\game\CocosProject\GoldMinerHtml5\res\failGameDialog.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\failGameDialog.json
+         E:\game\CocosProject\GoldMinerHtml5\res\HelpDialog.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\HelpDialog.json
+         E:\game\CocosProject\GoldMinerHtml5\res\pauseDialog.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\pauseDialog.json
+         E:\game\CocosProject\GoldMinerHtml5\res\progressHelp.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\progressHelp.json
+         E:\game\CocosProject\GoldMinerHtml5\res\progressMenu.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\progressMenu.json
+         E:\game\CocosProject\GoldMinerHtml5\res\progressTime.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\progressTime.json
+         E:\game\CocosProject\GoldMinerHtml5\res\SceneMenu.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\SceneMenu.json
+         E:\game\CocosProject\GoldMinerHtml5\res\settingDialog.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\settingDialog.json
+         E:\game\CocosProject\GoldMinerHtml5\res\SettingMenu.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\SettingMenu.json
+         E:\game\CocosProject\GoldMinerHtml5\res\successGameDialog.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\successGameDialog.json
+         E:\game\CocosProject\GoldMinerHtml5\res\testNode.json -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\res\testNode.json
+         复制了 11 个文件
+         已复制         1 个文件。
+         已复制         1 个文件。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\GoldMinerHtml5.exe) does not match the Linker's OutputFile property value (E:\game\CocosProject\GoldMinerHtml5\runtime\win32\GoldMinerHtml5.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       PreLinkEvent:
+         if not exist "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\" mkdir "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Cocos\frameworks\cocos2d-x-3.6\prebuilt\win32\*.*" "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\"
+         
+         :VCEnd
+         复制了 53 个文件
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\../../../runtime/win32/GoldMinerHtml5.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\\" /LIBPATH:"E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\\" libcurl_imp.lib "mozjs-33.lib" ws2_32.lib sqlite3.lib websockets.lib opengl32.lib glew32.lib libzlib.lib libpng.lib libjpeg.lib libtiff.lib libwebp.lib libiconv.lib glfw3.lib freetype250.lib winmm.lib ws2_32.lib libchipmunk.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\../../../runtime/win32/GoldMinerHtml5.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\GoldMinerHtml5.lib" /MACHINE:X86 /SAFESEH Debug.win32\game.res
+         Debug.win32\RuntimeJsImpl.obj
+         Debug.win32\SimpleConfigParser.obj
+         Debug.win32\main.obj
+         Debug.win32\AppDelegate.obj
+         Debug.win32\SimulatorWin.obj
+     1>RuntimeJsImpl.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+            正在创建库 E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\GoldMinerHtml5.lib 和对象 E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\GoldMinerHtml5.exp
+         GoldMinerHtml5.vcxproj -> E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\GoldMinerHtml5.exe
+       PostBuildEvent:
+         xcopy /Y /Q "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\Debug.win32\*.dll" "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\..\..\..\runtime\win32\"
+         xcopy /Y /Q "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\..\Classes\ide-support\lang" "E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\..\..\..\runtime\win32\"
+         :VCEnd
+         复制了 19 个文件
+         复制了 1 个文件
+     1>已完成生成项目“E:\game\CocosProject\GoldMinerHtml5\frameworks\runtime-src\proj.win32\GoldMinerHtml5.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:02.58

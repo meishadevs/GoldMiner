@@ -1,0 +1,338 @@
+{
+  "ID": "a982699f-15e5-4738-afe9-74af6987f754",
+  "Version": "2.3.4",
+  "Name": "progressTime",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 35,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shijiankuang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -36.5,
+            "RightMargin": -36.5,
+            "TopMargin": -40.5,
+            "BottomMargin": -40.5,
+            "Tag": 36,
+            "ActionTag": -868143110,
+            "Size": {
+              "X": 73.0,
+              "Y": 81.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jindu.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 97.0,
+              "Y": -6.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 10.5,
+            "RightMargin": -183.5,
+            "TopMargin": -24.0,
+            "BottomMargin": -36.0,
+            "Tag": 37,
+            "ActionTag": -231235988,
+            "Size": {
+              "X": 173.0,
+              "Y": 60.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "LabelText": "60",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "defaultBMFont.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.5,
+              "Y": -2.9999
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -17.5,
+            "RightMargin": -12.5,
+            "TopMargin": -15.0001,
+            "BottomMargin": -20.9999,
+            "Tag": 38,
+            "ActionTag": 1842639286,
+            "Size": {
+              "X": 30.0,
+              "Y": 36.0
+            },
+            "Name": "labelTime",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "ProgressInfo": 100,
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "jindu2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 86.0,
+              "Y": 4.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0774
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 24.0,
+            "RightMargin": -148.0,
+            "TopMargin": -14.0,
+            "BottomMargin": -6.0,
+            "Tag": 39,
+            "ActionTag": -1307536612,
+            "Size": {
+              "X": 124.0,
+              "Y": 20.0
+            },
+            "Name": "progressScore",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "LabelText": "500 / 500",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "defaultBMFont.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 38.0,
+              "Y": -11.0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 38.0,
+            "RightMargin": -146.0,
+            "TopMargin": -25.0,
+            "BottomMargin": -11.0,
+            "Tag": 40,
+            "ActionTag": 1133666453,
+            "Size": {
+              "X": 108.0,
+              "Y": 36.0
+            },
+            "Name": "labelScore",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "diduosg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5462,
+              "ScaleY": 0.5483
+            },
+            "Position": {
+              "X": 75.1009,
+              "Y": -19.2903
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 38.5055,
+            "RightMargin": -105.5055,
+            "TopMargin": 12.0631,
+            "BottomMargin": -28.0631,
+            "Tag": 43,
+            "ActionTag": 841171017,
+            "Size": {
+              "X": 67.0,
+              "Y": 16.0
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "LabelText": "1 - 1",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "defaultBMFont.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 56.0,
+              "Y": -32.0
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 56.0,
+            "RightMargin": -104.0,
+            "TopMargin": -4.0,
+            "BottomMargin": -32.0,
+            "Tag": 45,
+            "ActionTag": 1449238155,
+            "Size": {
+              "X": 48.0,
+              "Y": 36.0
+            },
+            "Name": "labelLevel",
+            "ctype": "TextBMFontObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "defaultBMFont.fnt",
+        "defaultBMFont.png",
+        "diduosg.png",
+        "jindu.png",
+        "jindu2.png",
+        "shijiankuang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

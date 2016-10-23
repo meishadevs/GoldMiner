@@ -1,0 +1,392 @@
+{
+  "ID": "abb8b2d8-6061-4e41-9cb4-9a31c8d26b04",
+  "Version": "2.3.4",
+  "Name": "progressHelp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 32,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "brownPoint.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -9.5,
+            "RightMargin": -9.5,
+            "TopMargin": -9.0,
+            "BottomMargin": -9.0,
+            "Tag": 33,
+            "ActionTag": 1645970489,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "dian0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "brownPoint.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 15.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 5.5,
+            "RightMargin": -24.5,
+            "TopMargin": -9.0,
+            "BottomMargin": -9.0,
+            "Tag": 34,
+            "ActionTag": -290915236,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "dian1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "brownPoint.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 30.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 20.5,
+            "RightMargin": -39.5,
+            "TopMargin": -9.0,
+            "BottomMargin": -9.0,
+            "Tag": 35,
+            "ActionTag": -118403125,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "dian2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "brownPoint.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 45.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 35.5,
+            "RightMargin": -54.5,
+            "TopMargin": -9.0,
+            "BottomMargin": -9.0,
+            "Tag": 36,
+            "ActionTag": 1156653931,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "dian3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "brownPoint.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6935,
+              "ScaleY": 0.4923
+            },
+            "Position": {
+              "X": 60.0,
+              "Y": -0.0773
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 46.8235,
+            "RightMargin": -65.8235,
+            "TopMargin": -9.0613,
+            "BottomMargin": -8.9387,
+            "Tag": 37,
+            "ActionTag": 1597820977,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "dian4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "brownPoint.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 75.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.9226,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 65.5,
+            "RightMargin": -84.5,
+            "TopMargin": -9.0,
+            "BottomMargin": -9.0,
+            "Tag": 38,
+            "ActionTag": -1152244112,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "dian5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "brownPoint.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5795,
+              "ScaleY": 0.4149
+            },
+            "Position": {
+              "X": 90.7953,
+              "Y": -0.8507
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 79.7848,
+            "RightMargin": -98.7848,
+            "TopMargin": -9.6811,
+            "BottomMargin": -8.3189,
+            "Tag": 39,
+            "ActionTag": -1339099529,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "dian6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "brownPoint.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5182,
+              "ScaleY": 0.4067
+            },
+            "Position": {
+              "X": 105.1817,
+              "Y": -0.9333
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 95.3359,
+            "RightMargin": -114.3359,
+            "TopMargin": -9.7461,
+            "BottomMargin": -8.2539,
+            "Tag": 40,
+            "ActionTag": -1349261569,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "dian7",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "brownPoint.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

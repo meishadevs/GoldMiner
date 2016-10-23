@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="bg01" tilewidth="32" tileheight="32">
+  <image source="bg01.png" width="800" height="480"/>
+ </tileset>
+ <layer name="bg" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJwNwwl0CAQAANBhzH3NbdjYGGaY+2bmnDk2xzbXhrnnNkKhO8rZQVGUWwflvo8OR3eUW9FBuSu38t/7P1tAQEB2cxhoTnMZZG7zmNd85reABS1kYYtY1GCLWdwSlrSUpS1jWUMsZ3krGGqYFa1kuBFWtoqRVrWa1Y2yhtHWtJa1jbGOda1nfRvY0EY2tolNbWZzW9jSVsba2jjb2NZ2treDHY23kwl2totd7WaiSXa3hz3tZbIpptrbPva1n/1NM90BDnSQGQ52iEMd5nBHONJMRznaMY51nOOd4ESznORkn3CKU53mkz7ldGc406d9xmd9zud9wRd9yVnO9mVfcY5zned8F7jQV33N133DRS72Td9yiUt923dc5nLf9T1XuNJVrnaNa13net/3Az/0Ize40Y/9xE1udotb3eZ2d7jTXe52j3vd534PeNBP/czP/cJDHvaIR/3Sr/zab/zW7/zeHzzmcX/0J0940lOe9oxnPed5f/YXL3jRX/3N3/3DS172T//yile95nVveNNb/u0//utt73jXe973gQ995H/+b0A2zG4OA81pLoPMbR7zms/8FrCghSxsEYsabDGLW8KSlrK0ZSxriOUsbwVDDbOilQw3wspWMdKqVrO6UdYw2prWsrYx1rGu9axvAxvayMY2sanNbG4LW9rKWFsbZxvb2s72drCj8XYywc52savdTDTJ7vawp71MNsVUe9vHvvazv2mmO8CBDjLDwQ5xqMMc7ghHmukoRzvGsY5zvBOcaJaTfAzdiZvd
+  </data>
+ </layer>
+ <objectgroup name="logic" width="25" height="15" opacity="0.9">
+  <object x="53" y="315" width="96" height="96">
+   <properties>
+    <property name="type" value="8"/>
+   </properties>
+  </object>
+  <object x="564" y="357" width="96" height="96">
+   <properties>
+    <property name="type" value="5"/>
+   </properties>
+  </object>
+  <object x="104" y="232" width="64" height="64">
+   <properties>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object x="155" y="351" width="64" height="64">
+   <properties>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object x="450" y="392" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="550" y="237" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="313" y="290" width="32" height="32">
+   <properties>
+    <property name="type" value="15"/>
+   </properties>
+  </object>
+  <object x="397" y="416" width="32" height="32">
+   <properties>
+    <property name="type" value="14"/>
+   </properties>
+  </object>
+  <object x="109" y="429" width="32" height="32">
+   <properties>
+    <property name="type" value="13"/>
+   </properties>
+  </object>
+  <object x="337" y="423" width="32" height="32">
+   <properties>
+    <property name="type" value="12"/>
+   </properties>
+  </object>
+  <object x="181" y="264" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="376" y="331" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="431" y="242" width="64" height="64">
+   <properties>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object x="648" y="275" width="64" height="64">
+   <properties>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object x="227" y="332" width="96" height="96">
+   <properties>
+    <property name="type" value="5"/>
+   </properties>
+  </object>
+  <object x="455" y="322" width="64" height="64">
+   <properties>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

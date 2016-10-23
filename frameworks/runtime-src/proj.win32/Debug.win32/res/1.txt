@@ -1,0 +1,76 @@
+ 驱动器 E 中的卷是 文档
+ 卷的序列号是 0004-8F18
+
+ E:\game\CocosProject\GoldMinerHtml5\res 的目录
+
+2016/09/18  23:40             4,378 bangzhu.png
+2016/09/18  23:40             5,053 bangzhu1.png
+2016/09/18  23:40             5,562 bangzhu2.png
+2016/09/18  23:40             5,196 baoxiang.png
+2016/09/18  23:40             3,317 beijingyinyue.png
+2016/09/18  23:40               187 blackPoint.png
+2016/09/18  23:40               169 brownPoint.png
+2016/09/18  23:40             3,928 buttonHelp1.png
+2016/09/18  23:40             3,629 buttonHelp2.png
+2016/09/18  23:40             3,909 caidan1.png
+2016/09/18  23:40             3,627 caidan2.png
+2016/09/18  23:40             3,773 chongkai1.png
+2016/09/18  23:40             3,839 chongkai2.png
+2016/09/18  23:40             3,835 chongwan1.png
+2016/09/18  23:40             3,590 chongwan2.png
+2016/09/18  23:40            21,920 di.png
+2016/09/18  23:40             4,141 di2.png
+2016/09/18  23:40             2,220 dianjigengduo1.png
+2016/09/18  23:40             2,319 dianjigengduo2.png
+2016/09/18  23:40             2,257 dianjishouhui1.png
+2016/09/18  23:40             2,362 dianjishouhui2.png
+2016/09/18  23:40               482 diduosg.png
+2016/09/18  23:40             4,741 fanhui1.png
+2016/09/18  23:40             4,145 fanhui2.png
+2016/09/18  23:40             5,411 gengduo1.png
+2016/09/18  23:40             5,986 gengduo2.png
+2016/09/18  23:40             3,519 guan1.png
+2016/09/18  23:40             3,532 guan2.png
+2016/09/29  19:56           482,122 HelloWorld.png
+2016/09/18  23:40            13,449 help0.png
+2016/09/18  23:40             2,971 jindu.png
+2016/09/18  23:40               610 jindu2.png
+2016/09/18  23:40             3,866 jixu1.png
+2016/09/18  23:40             3,624 jixu2.png
+2016/09/18  23:40            18,338 ku.png
+2016/09/18  23:40             1,877 kuang.png
+2016/09/18  23:40            11,557 kuang1.png
+2016/09/18  23:40            26,909 kuang3.png
+2016/09/18  23:40             2,500 menu_sound_off.png
+2016/09/18  23:40             2,389 menu_sound_on.png
+2016/09/18  23:40             2,870 now_score.png
+2016/09/18  23:40             2,789 now_score_aim.png
+2016/09/18  23:40             7,919 qian.png
+2016/09/18  23:40            23,449 sb.png
+2016/09/18  23:40             6,789 shang.png
+2016/09/18  23:40             3,635 shezhi.png
+2016/09/18  23:40             5,017 shezhi1.png
+2016/09/18  23:40             5,525 shezhi2.png
+2016/09/18  23:40             6,820 shibai.png
+2016/09/18  23:40             3,829 shijiankuang.png
+2016/09/18  23:40             1,859 shijianshuzi.png
+2016/09/18  23:40             7,236 sl.png
+2016/09/18  23:40             6,197 tanchu2.png
+2016/09/18  23:40            15,350 tu0.png
+2016/09/18  23:40             4,960 tuichu1.png
+2016/09/18  23:40             5,399 tuichu2.png
+2016/09/18  23:40             2,188 wjx1.png
+2016/09/18  23:40             3,152 xiangyou1.png
+2016/09/18  23:40             2,865 xiangyou2.png
+2016/09/18  23:40             3,163 xiangzuo1.png
+2016/09/18  23:40             2,901 xiangzuo2.png
+2016/09/18  23:40             3,765 xiayiguan1.png
+2016/09/18  23:40             3,961 xiayiguan2.png
+2016/09/18  23:40            49,669 xuanguanbeijing.png
+2016/09/18  23:40             1,975 yinxiao.png
+2016/09/18  23:40             1,283 you.png
+2016/09/18  23:40             1,332 you1.png
+2016/09/18  23:40             1,306 zuo.png
+2016/09/18  23:40             1,313 zuo1.png
+              69 个文件        875,755 字节
+               0 个目录 85,465,837,568 可用字节

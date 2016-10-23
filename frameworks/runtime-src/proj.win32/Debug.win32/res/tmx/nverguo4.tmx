@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="bg03" tilewidth="32" tileheight="32">
+  <image source="bg03.png" width="800" height="480"/>
+ </tileset>
+ <layer name="bg" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJwNwwl0CAQAANBhzH3NbdjYGGaY+2bmnDk2xzbXhrnnNkKhO8rZQVGUWwflvo8OR3eUW9FBuSu38t/7P1tAQEB2cxhoTnMZZG7zmNd85reABS1kYYtY1GCLWdwSlrSUpS1jWUMsZ3krGGqYFa1kuBFWtoqRVrWa1Y2yhtHWtJa1jbGOda1nfRvY0EY2tolNbWZzW9jSVsba2jjb2NZ2treDHY23kwl2totd7WaiSXa3hz3tZbIpptrbPva1n/1NM90BDnSQGQ52iEMd5nBHONJMRznaMY51nOOd4ESznORkn3CKU53mkz7ldGc406d9xmd9zud9wRd9yVnO9mVfcY5zned8F7jQV33N133DRS72Td9yiUt923dc5nLf9T1XuNJVrnaNa13net/3Az/0Ize40Y/9xE1udotb3eZ2d7jTXe52j3vd534PeNBP/czP/cJDHvaIR/3Sr/zab/zW7/zeHzzmcX/0J0940lOe9oxnPed5f/YXL3jRX/3N3/3DS172T//yile95nVveNNb/u0//utt73jXe973gQ995H/+b0A2zG4OA81pLoPMbR7zms/8FrCghSxsEYsabDGLW8KSlrK0ZSxriOUsbwVDDbOilQw3wspWMdKqVrO6UdYw2prWsrYx1rGu9axvAxvayMY2sanNbG4LW9rKWFsbZxvb2s72drCj8XYywc52savdTDTJ7vawp71MNsVUe9vHvvazv2mmO8CBDjLDwQ5xqMMc7ghHmukoRzvGsY5zvBOcaJaTfAzdiZvd
+  </data>
+ </layer>
+ <objectgroup name="logic" width="25" height="15" opacity="0.9">
+  <object x="69" y="237" width="64" height="64">
+   <properties>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object x="102" y="337" width="32" height="32">
+   <properties>
+    <property name="type" value="17"/>
+   </properties>
+  </object>
+  <object x="368" y="234" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="146" y="275" width="64" height="64">
+   <properties>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object x="268" y="404" width="32" height="32">
+   <properties>
+    <property name="type" value="15"/>
+   </properties>
+  </object>
+  <object x="171" y="389" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="588" y="267" width="64" height="64">
+   <properties>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object x="664" y="235" width="64" height="64">
+   <properties>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object x="662" y="331" width="32" height="32">
+   <properties>
+    <property name="type" value="9"/>
+   </properties>
+  </object>
+  <object x="451" y="433" width="32" height="32">
+   <properties>
+    <property name="type" value="9"/>
+   </properties>
+  </object>
+  <object x="321" y="432" width="32" height="32">
+   <properties>
+    <property name="type" value="9"/>
+   </properties>
+  </object>
+  <object x="368" y="308" width="64" height="64">
+   <properties>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object x="390" y="431" width="32" height="32">
+   <properties>
+    <property name="type" value="9"/>
+   </properties>
+  </object>
+  <object x="223" y="398" width="32" height="32">
+   <properties>
+    <property name="type" value="12"/>
+   </properties>
+  </object>
+  <object x="253" y="442" width="32" height="32">
+   <properties>
+    <property name="type" value="16"/>
+   </properties>
+  </object>
+  <object x="290" y="367" width="32" height="32">
+   <properties>
+    <property name="type" value="14"/>
+   </properties>
+  </object>
+  <object x="327" y="344" width="32" height="32">
+   <properties>
+    <property name="type" value="15"/>
+   </properties>
+  </object>
+  <object x="444" y="345" width="32" height="32">
+   <properties>
+    <property name="type" value="12"/>
+   </properties>
+  </object>
+  <object x="484" y="369" width="32" height="32">
+   <properties>
+    <property name="type" value="15"/>
+   </properties>
+  </object>
+  <object x="502" y="407" width="32" height="32">
+   <properties>
+    <property name="type" value="16"/>
+   </properties>
+  </object>
+  <object x="515" y="444" width="32" height="32">
+   <properties>
+    <property name="type" value="15"/>
+   </properties>
+  </object>
+  <object x="211" y="441" width="32" height="32">
+   <properties>
+    <property name="type" value="13"/>
+   </properties>
+  </object>
+  <object x="242" y="356" width="32" height="32">
+   <properties>
+    <property name="type" value="13"/>
+   </properties>
+  </object>
+  <object x="280" y="318" width="32" height="32">
+   <properties>
+    <property name="type" value="16"/>
+   </properties>
+  </object>
+  <object x="325" y="303" width="32" height="32">
+   <properties>
+    <property name="type" value="13"/>
+   </properties>
+  </object>
+  <object x="444" y="302" width="32" height="32">
+   <properties>
+    <property name="type" value="14"/>
+   </properties>
+  </object>
+  <object x="488" y="322" width="32" height="32">
+   <properties>
+    <property name="type" value="13"/>
+   </properties>
+  </object>
+  <object x="524" y="357" width="32" height="32">
+   <properties>
+    <property name="type" value="12"/>
+   </properties>
+  </object>
+  <object x="548" y="400" width="32" height="32">
+   <properties>
+    <property name="type" value="13"/>
+   </properties>
+  </object>
+  <object x="559" y="443" width="32" height="32">
+   <properties>
+    <property name="type" value="14"/>
+   </properties>
+  </object>
+  <object x="156" y="441" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="196" y="345" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="227" y="306" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="321" y="257" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="269" y="278" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="450" y="258" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="494" y="274" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="538" y="301" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="566" y="343" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="592" y="392" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="601" y="441" width="32" height="32">
+   <properties>
+    <property name="type" value="6"/>
+   </properties>
+  </object>
+  <object x="202" y="207" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="518" y="204" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="605" y="215" width="32" height="32">
+   <properties>
+    <property name="type" value="9"/>
+   </properties>
+  </object>
+  <object x="153" y="222" width="32" height="32">
+   <properties>
+    <property name="type" value="9"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

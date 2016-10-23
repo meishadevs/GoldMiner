@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="bg03" tilewidth="32" tileheight="32">
+  <image source="bg03.png" width="800" height="480"/>
+ </tileset>
+ <layer name="bg" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJwNwwl0CAQAANBhzH3NbdjYGGaY+2bmnDk2xzbXhrnnNkKhO8rZQVGUWwflvo8OR3eUW9FBuSu38t/7P1tAQEB2cxhoTnMZZG7zmNd85reABS1kYYtY1GCLWdwSlrSUpS1jWUMsZ3krGGqYFa1kuBFWtoqRVrWa1Y2yhtHWtJa1jbGOda1nfRvY0EY2tolNbWZzW9jSVsba2jjb2NZ2treDHY23kwl2totd7WaiSXa3hz3tZbIpptrbPva1n/1NM90BDnSQGQ52iEMd5nBHONJMRznaMY51nOOd4ESznORkn3CKU53mkz7ldGc406d9xmd9zud9wRd9yVnO9mVfcY5zned8F7jQV33N133DRS72Td9yiUt923dc5nLf9T1XuNJVrnaNa13net/3Az/0Ize40Y/9xE1udotb3eZ2d7jTXe52j3vd534PeNBP/czP/cJDHvaIR/3Sr/zab/zW7/zeHzzmcX/0J0940lOe9oxnPed5f/YXL3jRX/3N3/3DS172T//yile95nVveNNb/u0//utt73jXe973gQ995H/+b0A2zG4OA81pLoPMbR7zms/8FrCghSxsEYsabDGLW8KSlrK0ZSxriOUsbwVDDbOilQw3wspWMdKqVrO6UdYw2prWsrYx1rGu9axvAxvayMY2sanNbG4LW9rKWFsbZxvb2s72drCj8XYywc52savdTDTJ7vawp71MNsVUe9vHvvazv2mmO8CBDjLDwQ5xqMMc7ghHmukoRzvGsY5zvBOcaJaTfAzdiZvd
+  </data>
+ </layer>
+ <objectgroup name="logic" width="25" height="15" opacity="0.9">
+  <object x="247" y="245" width="64" height="64">
+   <properties>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object x="447" y="410" width="32" height="32">
+   <properties>
+    <property name="type" value="17"/>
+   </properties>
+  </object>
+  <object x="393" y="199" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="493" y="363" width="64" height="64">
+   <properties>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object x="569" y="340" width="96" height="96">
+   <properties>
+    <property name="type" value="8"/>
+   </properties>
+  </object>
+  <object x="144" y="265" width="96" height="96">
+   <properties>
+    <property name="type" value="5"/>
+   </properties>
+  </object>
+  <object x="680" y="404" width="32" height="32">
+   <properties>
+    <property name="type" value="9"/>
+   </properties>
+  </object>
+  <object x="87" y="303" width="32" height="32">
+   <properties>
+    <property name="type" value="14"/>
+   </properties>
+  </object>
+  <object x="222" y="410" width="32" height="32">
+   <properties>
+    <property name="type" value="3"/>
+   </properties>
+  </object>
+  <object x="71" y="219" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="556" y="225" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object x="313" y="411" width="32" height="32">
+   <properties>
+    <property name="type" value="9"/>
+   </properties>
+  </object>
+  <object x="316" y="229" width="64" height="64">
+   <properties>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object x="469" y="221" width="64" height="64">
+   <properties>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object x="682" y="291" width="64" height="64">
+   <properties>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object x="317" y="311" width="64" height="64">
+   <properties>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object x="359" y="411" width="32" height="32">
+   <properties>
+    <property name="type" value="3"/>
+   </properties>
+  </object>
+  <object x="480" y="292" width="64" height="64">
+   <properties>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object x="394" y="321" width="64" height="64">
+   <properties>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object x="178" y="411" width="32" height="32">
+   <properties>
+    <property name="type" value="15"/>
+   </properties>
+  </object>
+  <object x="266" y="411" width="32" height="32">
+   <properties>
+    <property name="type" value="14"/>
+   </properties>
+  </object>
+  <object x="403" y="410" width="32" height="32">
+   <properties>
+    <property name="type" value="16"/>
+   </properties>
+  </object>
+  <object x="410" y="281" width="32" height="32">
+   <properties>
+    <property name="type" value="12"/>
+   </properties>
+  </object>
+  <object x="247" y="323" width="64" height="64">
+   <properties>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

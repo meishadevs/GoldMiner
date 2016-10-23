@@ -1,0 +1,149 @@
+<Solution>
+  <PropertyGroup Name="GoldMinerHtml5" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="bangzhu.png" />
+        <Image Name="bangzhu1.png" />
+        <Image Name="bangzhu2.png" />
+        <Image Name="baoxiang.png" />
+        <Image Name="beijing.png" />
+        <Image Name="beijingyinyue.png" />
+        <Image Name="blackPoint.png" />
+        <Image Name="brownPoint.png" />
+        <Image Name="buttonHelp1.png" />
+        <Image Name="buttonHelp2.png" />
+        <Image Name="caidan1.png" />
+        <Image Name="caidan2.png" />
+        <Image Name="chongkai1.png" />
+        <Image Name="chongkai2.png" />
+        <Image Name="chongwan1.png" />
+        <Image Name="chongwan2.png" />
+        <Image Name="daojushuzi.png" />
+        <Fnt Name="defaultBMFont.fnt" />
+        <Image Name="di.png" />
+        <Image Name="di2.png" />
+        <Image Name="dianjigengduo1.png" />
+        <Image Name="dianjigengduo2.png" />
+        <Image Name="dianjijixu.png" />
+        <Image Name="dianjishouhui1.png" />
+        <Image Name="dianjishouhui2.png" />
+        <Image Name="diduosg.png" />
+        <Project Name="failGameDialog.csd" Type="Node" />
+        <Image Name="fanhui1.png" />
+        <Image Name="fanhui2.png" />
+        <Image Name="gengduo1.png" />
+        <Image Name="gengduo2.png" />
+        <Image Name="guaiwuwo1.png" />
+        <Image Name="guaiwuwo2.png" />
+        <Image Name="guan1.png" />
+        <Image Name="guan2.png" />
+        <Image Name="guanyu.png" />
+        <Image Name="guanyu1.png" />
+        <Image Name="guanyu2.png" />
+        <Image Name="help0.png" />
+        <Project Name="HelpDialog.csd" Type="Node" />
+        <Image Name="huoyanshan.png" />
+        <Image Name="jindu.png" />
+        <Image Name="jindu2.png" />
+        <Image Name="jixu1.png" />
+        <Image Name="jixu2.png" />
+        <Image Name="juqing1.png" />
+        <Image Name="juqing2.png" />
+        <Image Name="kaishi1.png" />
+        <Image Name="kaishi2.png" />
+        <Image Name="ku.png" />
+        <Image Name="kuang.png" />
+        <Image Name="kuang1.png" />
+        <Image Name="kuang2.png" />
+        <Image Name="kuang3.png" />
+        <Image Name="liang.png" />
+        <Image Name="lingshan.png" />
+        <Image Name="logo.png" />
+        <Image Name="menu_sound_off.png" />
+        <Image Name="menu_sound_on.png" />
+        <Image Name="now_score.png" />
+        <Image Name="now_score_aim.png" />
+        <Image Name="nverguo.png" />
+        <Image Name="paihangbang1.png" />
+        <Image Name="paihangbang2.png" />
+        <Project Name="pauseDialog.csd" Type="Node" />
+        <Project Name="progressHelp.csd" Type="Node" />
+        <Project Name="progressMenu.csd" Type="Node" />
+        <Project Name="progressTime.csd" Type="Node" />
+        <Image Name="qian.png" />
+        <Image Name="sb.png" />
+        <Project Name="SceneMenu.csd" Type="Scene" />
+        <Project Name="settingDialog.csd" Type="Node" />
+        <Project Name="SettingMenu.csd" Type="Node" />
+        <Image Name="shang.png" />
+        <Image Name="shangcheng1.png" />
+        <Image Name="shangcheng2.png" />
+        <Image Name="shaseng.png" />
+        <Image Name="shezhi.png" />
+        <Image Name="shezhi1.png" />
+        <Image Name="shezhi2.png" />
+        <Image Name="shibai.png" />
+        <Image Name="shifou.png" />
+        <Image Name="shijiankuang.png" />
+        <Image Name="shijianshuzi.png" />
+        <Image Name="shuzi.png" />
+        <Image Name="sl.png" />
+        <Project Name="successGameDialog.csd" Type="Node" />
+        <Image Name="sunwukong.png" />
+        <Image Name="suo.png" />
+        <Image Name="tanchu.png" />
+        <Image Name="tanchu2.png" />
+        <Image Name="tangseng.png" />
+        <Image Name="tangseng1.png" />
+        <Image Name="tangseng123.png" />
+        <Image Name="tangseng2.png" />
+        <Image Name="tangseng3.png" />
+        <Image Name="tangseng4.png" />
+        <Image Name="tangseng5.png" />
+        <Image Name="tangseng6.png" />
+        <Project Name="testNode.csd" Type="Node" />
+        <Image Name="tiaozhan1.png" />
+        <Image Name="tiaozhan2.png" />
+        <Image Name="tongtianhe.png" />
+        <Image Name="tu0.png" />
+        <Image Name="tuichu.png" />
+        <Image Name="tuichu1.png" />
+        <Image Name="tuichu2.png" />
+        <Image Name="wjx1.png" />
+        <Image Name="xiangyou1.png" />
+        <Image Name="xiangyou2.png" />
+        <Image Name="xiangzuo1.png" />
+        <Image Name="xiangzuo2.png" />
+        <Image Name="xiaolongnv0.png" />
+        <Image Name="xiaolongnv1.png" />
+        <Image Name="xiaolongnv2.png" />
+        <Image Name="xiaolongnv3.png" />
+        <Image Name="xiaolongnv4.png" />
+        <Image Name="xiaolongnv5.png" />
+        <Image Name="xiaolongnv6.png" />
+        <Image Name="xiayiguan1.png" />
+        <Image Name="xiayiguan2.png" />
+        <Image Name="xing1.png" />
+        <Image Name="xing2.png" />
+        <Image Name="xuanguanbeijing.png" />
+        <Image Name="yanjing1.png" />
+        <Image Name="yanjing2.png" />
+        <Image Name="yellowPoint.png" />
+        <Image Name="yinxiao.png" />
+        <Image Name="you.png" />
+        <Image Name="you1.png" />
+        <Image Name="yun.png" />
+        <Image Name="yun01.png" />
+        <Image Name="yun02.png" />
+        <Image Name="yun03.png" />
+        <Image Name="zhalan.png" />
+        <Image Name="zhubajie.png" />
+        <Image Name="zongfen.png" />
+        <Image Name="zuanshi.png" />
+        <Image Name="zuo.png" />
+        <Image Name="zuo1.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,29 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "cocostudio"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/SceneStart.js",
+        "src/Config.js",
+        "src/Util.js",
+        "src/SceneMenu.js",
+        "src/SceneBaoXiangGuo.js",
+        "src/SceneTongTianHe.js",
+        "src/SceneNvErGuo.js",
+        "src/SceneHuoYanShan.js",
+        "src/SceneLingShan.js",
+        "src/Mineral.js",
+        "src/GameUi.js",
+        "src/GameLogic.js",
+        "src/GameAnimation.js"
+    ]
+}

@@ -1,0 +1,50 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="successGameDialog.csd" />
+          <FilePathData Path="pauseDialog.csd" />
+          <FilePathData Path="failGameDialog.csd" />
+          <FilePathData Path="HelpDialog.csd" />
+          <FilePathData Path="SceneMenu.csd" />
+          <FilePathData Path="progressHelp.csd" />
+          <FilePathData Path="progressMenu.csd" />
+          <FilePathData Path="progressTime.csd" />
+          <FilePathData Path="settingDialog.csd" />
+          <FilePathData Path="SettingMenu.csd" />
+          <FilePathData Path="testNode.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="progressTime.csd" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="VS" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.GoldMinerHtml5" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-20" />
+        <iOS_Target Value="GoldMinerHtml5 iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <RunPlatform Value="Windows" />
+        <FrameworkVersion Value="cocos2d-x-3.6" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

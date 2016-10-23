@@ -1,0 +1,55 @@
+
+	labelTime = timeDialog.node.getChildByName("labelTime");
+	progressScore = timeDialog.node.getChildByName("progressScore");
+	labelLevel = timeDialog.node.getChildByName("labelLevel");
+	labelScore = timeDialog.node.getChildByName("labelScore");
+
+	//继续按钮
+	var buttonContinue = pauseDialog.node.getChildByName("buttonContinue");
+	buttonContinue.addTouchEventListener(this.continueGame);
+
+	//重玩按钮
+	var buttonReplay = pauseDialog.node.getChildByName("buttonReplay");
+	buttonReplay.addTouchEventListener(this.replayGame);
+
+	//菜单按钮
+	var buttonMenu = pauseDialog.node.getChildByName("buttonMenu");
+	buttonMenu.addTouchEventListener(this.intoSceneMenu);
+
+	//帮助按钮
+	var buttonHelp = pauseDialog.node.getChildByName("buttonHelp");
+	buttonHelp.addTouchEventListener(this.openHelpDialog);
+
+	//获得向左翻页按钮
+	buttonPageLeft = helpDialog.node.getChildByName("pageLeft");
+	buttonPageLeft.addTouchEventListener(this.pageLeft);
+
+	//获得向右翻页按钮
+	buttonPageRight = helpDialog.node.getChildByName("pageRight");
+	buttonPageRight.addTouchEventListener(this.pageRight);
+
+	//获得关闭帮助对话框按钮
+	var buttonCloseHelpDialog = helpDialog.node.getChildByName("closeHelpDialog");
+	buttonCloseHelpDialog.addTouchEventListener(this.closeHelpDialog);
+
+	spriteInfo = dynamic_cast<Sprite*>(helpDialog.node.getChildByName("spriteInfo");
+
+	//重玩按钮(游戏失败对话框中的重玩按钮)
+	var buttonReplay1 = failGameDialog.node.getChildByName("buttonReplay");
+	buttonReplay1.addTouchEventListener(this.replayGame);
+
+	//菜单按钮(游戏失败对话框中的菜单按钮)
+	var buttonMenu1 = failGameDialog.node.getChildByName("buttonMenu");
+	buttonMenu1.addTouchEventListener(this.intoSceneMenu);
+
+	//菜单按钮(游戏成功对话框中的菜单按钮)
+	var buttonMenu2 = successGameDialog.node.getChildByName("buttonMenu");
+	buttonMenu2.addTouchEventListener(this.intoSceneMenu);
+
+	//重新开始按钮(游戏成功对话框中的重新开始按钮)
+	var buttonStart = successGameDialog.node.getChildByName("buttonStart");
+	buttonStart.addTouchEventListener(this.replayGame);
+
+	//进入下一关按钮(游戏成功对话框中的进入下一关按钮)
+	var buttonLevel = successGameDialog.node.getChildByName("buttonLevel");
+	buttonLevel.addTouchEventListener(this.intoNextLevel);
