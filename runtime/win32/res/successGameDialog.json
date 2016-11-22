@@ -56,6 +56,7 @@
               "X": 759.0,
               "Y": 441.0
             },
+            "Alpha": 214,
             "Name": "Sprite_1",
             "ctype": "SpriteObjectData"
           },
@@ -405,8 +406,8 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": -102.9999,
-            "RightMargin": -19.0001,
+            "LeftMargin": -103.0049,
+            "RightMargin": -18.9951,
             "TopMargin": 3.0,
             "BottomMargin": -29.0,
             "Tag": 36,
@@ -466,7 +467,7 @@
           {
             "CharWidth": 20,
             "CharHeight": 27,
-            "LabelText": "0",
+            "LabelText": "5000",
             "StartChar": "0",
             "LabelAtlasFileImage_CNB": {
               "Type": "Normal",
@@ -493,13 +494,13 @@
               "Y": 0.0
             },
             "LeftMargin": 22.0,
-            "RightMargin": -42.0,
+            "RightMargin": -102.0,
             "TopMargin": 3.0,
             "BottomMargin": -30.0,
             "Tag": 38,
             "ActionTag": -1547129344,
             "Size": {
-              "X": 20.0,
+              "X": 80.0,
               "Y": 27.0
             },
             "Name": "labelScore",
@@ -508,7 +509,7 @@
           {
             "CharWidth": 20,
             "CharHeight": 27,
-            "LabelText": "0",
+            "LabelText": "5000",
             "StartChar": "0",
             "LabelAtlasFileImage_CNB": {
               "Type": "Normal",
@@ -517,7 +518,7 @@
             },
             "AnchorPoint": {},
             "Position": {
-              "X": 25.0,
+              "X": 25.8929,
               "Y": -75.0
             },
             "Scale": {
@@ -534,14 +535,14 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": 25.0,
-            "RightMargin": -45.0,
+            "LeftMargin": 25.8929,
+            "RightMargin": -105.8929,
             "TopMargin": 48.0,
             "BottomMargin": -75.0,
             "Tag": 39,
             "ActionTag": 673926216,
             "Size": {
-              "X": 20.0,
+              "X": 80.0,
               "Y": 27.0
             },
             "Name": "labelAirmScore",

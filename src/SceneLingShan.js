@@ -21,6 +21,8 @@ var LingShanLayer = cc.Layer.extend(
         //初始化数据
         this.initData();
 
+        addBackground(this, res.bg05_png);
+
         //添加地图
         addMap(this, "lingshan");
 

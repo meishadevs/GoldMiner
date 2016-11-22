@@ -471,3 +471,13 @@ openPauseDialog = function (sender, type)
     }
 }
 
+var addBackground = function(self, fileImage)
+{
+    var bg = new cc.Sprite(fileImage);
+    bg.anchorX = 0;
+    bg.anchorY = 0;
+    bg.x = 0;
+    bg.y = 0;
+    self.addChild(bg);
+}
+

@@ -21,6 +21,8 @@ var HuoYanShanLayer = cc.Layer.extend(
         //初始化数据
         this.initData();
 
+        addBackground(this, res.bg04_png);
+
         //添加地图
         addMap(this, "huoyanshan");
 

@@ -1,4 +1,6 @@
-//开始场景
+/**
+ * 开始场景
+ */
 var StartLayer = cc.Layer.extend(
 {
     settingMenu : null,
@@ -13,19 +15,8 @@ var StartLayer = cc.Layer.extend(
     buttonStopEffVolume : null,
     buttonSetting : null,
 
-    //像左翻页按钮
-    buttonPageLeft : null,
-
-    //向右翻页按钮
-    buttonPageRight : null,
-
-    spriteInfo : null,
-
     //标记是否能点击按钮
     isClieck : null,
-
-    //标记帮助菜单中翻页的页码
-    indexPage : null,
 
     ctor:function ()
     {
@@ -85,9 +76,6 @@ var StartLayer = cc.Layer.extend(
         this.initCocosStudio();
 
         this.getButton();
-
-        //添加事件监听
-       // addTouchEventListenser();
     },
 
     //添加游戏背景
@@ -340,7 +328,7 @@ var StartLayer = cc.Layer.extend(
         buttonOpenMenu = ccui.helper.seekWidgetByName(settingMenu.node, "buttonOpenMenu");
         buttonOpenMenu.addTouchEventListener(this.openSettingMenu);
 
-        //获得关闭设置对话框的按钮
+        //获得关闭设置菜单按钮
         buttonCloseMenu = ccui.helper.seekWidgetByName(settingMenu.node, "buttonCloseMenu");
         buttonCloseMenu.addTouchEventListener(this.closeSettingMenu);
 
@@ -378,23 +366,75 @@ var StartLayer = cc.Layer.extend(
 
         //获得向左翻页按钮
         buttonPageLeft = ccui.helper.seekWidgetByName(helpDialog.node, "pageLeft");
-        buttonPageLeft.addTouchEventListener(this.pageLeft.bind(this));
+        buttonPageLeft.addTouchEventListener(pageLeft);
 
         //获得向右翻页按钮
         buttonPageRight = ccui.helper.seekWidgetByName(helpDialog.node, "pageRight");
-        buttonPageRight.addTouchEventListener(this.pageRight.bind(this));
+        buttonPageRight.addTouchEventListener(pageRight);
 
         spriteInfo = ccui.helper.seekWidgetByName(helpDialog.node, "spriteInfo");
 
-        /*
          //获得更多游戏按钮
          var buttonMoreGame = ccui.helper.seekWidgetByName(settingMenu.node, "buttonMoreGame");
-         buttonMoreGame.addTouchEventListener(this.openMoreGameDialog);
+         buttonMoreGame.addTouchEventListener(this.moreGame);
 
          //获得退出游戏按钮
          var buttonExitGame = ccui.helper.seekWidgetByName(settingMenu.node, "buttonExitGame");
-         buttonExitGame.addTouchEventListener(this.openExitGameDialog);
-        */
+         buttonExitGame.addTouchEventListener(this.exitGame);
+    },
+
+    //更多游戏
+    moreGame:function(sender, type)
+    {
+        switch (type)
+        {
+            case ccui.Widget.TOUCH_BEGAN:
+            {
+                if (!isClieck)
+                {
+                    return;
+                }
+
+                if (effVolume)
+                {
+                    //播放按钮音效
+                    cc.audioEngine.playEffect(res.sound010_mp3);
+                }
+
+                window.location.href = "http://www.52h5game.com/"
+            }
+            break;
+            default:
+            break;
+        }
+    },
+
+    //退出游戏
+    exitGame:function(sender, type)
+    {
+        switch (type)
+        {
+            case ccui.Widget.TOUCH_BEGAN:
+            {
+                if (!isClieck)
+                {
+                    return;
+                }
+
+                if (effVolume)
+                {
+                    //播放按钮音效
+                    cc.audioEngine.playEffect(res.sound010_mp3);
+                }
+
+                alert("其实没有退出啦=_=|||\n"
+                      + "因为实在是没有其他键要实现(囧rz)\n"
+                      + "就拿退出键滥竽充数。~~~(>_<)~~~");
+            }
+            break;
+            default:
+            break;
+        }
     },
 
     //打开设置菜单
@@ -613,7 +653,7 @@ var StartLayer = cc.Layer.extend(
          indexPage = 0;
 
          //刷新页面上的数据
-         this.updatePageData();
+         updatePageData();
     },
 
     //播放背景音乐
@@ -732,107 +772,6 @@ var StartLayer = cc.Layer.extend(
             break;
             default:
             break;
-        }
-    },
-
-    //向左翻页
-    pageLeft: function(sender, type)
-    {
-        switch (type)
-        {
-            case ccui.Widget.TOUCH_ENDED:
-            {
-                if (effVolume)
-                {
-                    //播放按钮音效
-                    cc.audioEngine.playEffect(res.sound010_mp3);
-                }
-
-                //页码减1
-                indexPage--;
-
-                //刷新页面上的数据
-                this.updatePageData();
-            }
-            break;
-            default:
-            break;
-        }
-    },
-
-    //向右翻页
-    pageRight:function(sender, type)
-    {
-        switch (type)
-        {
-            case ccui.Widget.TOUCH_ENDED:
-            {
-                if (effVolume)
-                {
-                    //播放按钮音效
-                    cc.audioEngine.playEffect(res.sound010_mp3);
-                }
-
-                //页码加1
-                indexPage++;
-
-                //刷新页面上的数据
-                this.updatePageData();
-            }
-            break;
-            default:
-            break;
-        }
-    },
-
-    //翻页时,刷新页面上的数据
-    updatePageData:function()
-    {
-        //如果翻到了第0页
-        if (indexPage == 0)
-        {
-            //隐藏向左翻页的翻页按钮
-            buttonPageLeft.visible = false;
-
-            //显示向右翻页的翻页按钮
-            buttonPageRight.visible = true;
-        }
-
-        //如果翻到了第7页
-        if (indexPage == 7)
-        {
-            //显示向左翻页的翻页按钮
-            buttonPageLeft.visible = true;
-
-            //隐藏向右翻页的翻页按钮
-            buttonPageRight.visible = false;
-        }
-
-        //如果在1到6页之间
-        if (indexPage >= 1 && indexPage <= 6)
-        {
-            //显示向左翻页的翻页按钮
-            buttonPageLeft.visible = true;
-
-            //显示向右翻页的翻页按钮
-            buttonPageRight.visible = true;
-        }
-
-        //显示该页上的内容
-        spriteInfo.setTexture("res/help" + indexPage + ".png");
-
-        for (var i = 0; i <= 7; i++)
-        {
-            var sprite = seekFromRootByName(helpDialog.node, "dian" + i);
-
-            if (i == indexPage)
-            {
-                sprite.setTexture(res.pinkPoint_png);
-            }
-            else
-            {
-                sprite.setTexture(res.brownPoint_png);
-            }
         }
     }
 });

@@ -1,3 +1,7 @@
+/**
+ * 存放游戏中用到的一些配置信息
+ */
+
 //标记是否播放背景音乐
 var bgVolume = 1;
 
@@ -15,6 +19,10 @@ var arrayTitle = [0, res.baoxiang_png, res.tongtianhe_png, res.nverguo_png, res.
 
 //保存创建倒计时动画用到的图片资源
 var arrayAnimation = [res.start3_png, res.start2_png, res.start1_png, res.start_png];
+
+//保存矿石的分值,type表示数组的下标
+var arrayScore = [0, 0, 430, 50, 100, 250, 10, 20, 50, 700, 50, 100,
+    50, 50, 50, 50, 50, 5];
 
 //游戏场景的索引
 var indexSceneGame = 1;

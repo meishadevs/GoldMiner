@@ -1,4 +1,6 @@
-//菜单场景(关卡选择场景)
+/**
+ * 菜单场景(关卡选择场景)
+ */
 var MenuLayer = cc.Layer.extend(
 {
     rootNode:null,

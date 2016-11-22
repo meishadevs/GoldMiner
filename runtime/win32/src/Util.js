@@ -1,10 +1,13 @@
+/**
+ * 存放一些常用的工具函数
+ */
+
 //用于调整节点的位置
 var moveNode = function(node, off)
 {
     node.x = node.x + off.x;
     node.y = node.y + off.y;
 }
-
 
 //查找节点下的子节点
 var seekFromRootByName = function(root, name)

@@ -1,3 +1,7 @@
+/**
+ * 加载游戏中的资源
+ */
+
 var res = {
     //json文件
     failGameDialog_json : "res/failGameDialog.json",
@@ -175,7 +179,7 @@ var res = {
     haigui_png : "res/SceneGame/haigui.png",
     huolianhua_png : "res/SceneGame/huolianhua.png",
     masking_png : "res/SceneGame/masking.png",
-    //shaseng_png : "res/SceneGame/shaseng.png",
+    shaseng_png : "res/SceneGame/shaseng.png",
     shengzi_png : "res/SceneGame/shengzi.png",
     start_png : "res/SceneGame/start.png",
     start1_png : "res/SceneGame/start1.png",
@@ -193,7 +197,7 @@ var res = {
     bajie_plist : "res/SceneGame/bajie.plist",
     haigui_plist : "res/SceneGame/haigui.plist",
     huolianhua_plist : "res/SceneGame/huolianhua.plist",
-    //shaseng_plist : "res/SceneGame/shaseng.plist",
+    shaseng_plist : "res/SceneGame/shaseng.plist",
     tangseng_plist : "res/SceneGame/tangseng.plist",
     wukong_plist : "res/SceneGame/wukong.plist",
     xiaolongnv_plist : "res/SceneGame/xiaolongnv.plist",
@@ -285,6 +289,8 @@ var res = {
     yezi2_plist : "res/texiao/yezi/yezi2.plist",
     xuehua_plist : "res/texiao/xuehua/xuehua.plist",
     yanhua_plist : "res/texiao/yanhua/yanhua.plist",
+    paopao_plist : "res/texiao/paopao/paopao.plist",
+    shouye_plist : "res/texiao/shouye/shouye.plist",
 
     //音乐文件
     sound001_mp3 : "res/music/sound001.mp3",
@@ -304,12 +310,7 @@ var res = {
     sound030_mp3 : "res/music/sound030.mp3",
     sound082_mp3 : "res/music/sound082.mp3",
     sound083_mp3 : "res/music/sound083.mp3",
-    sound_bomb_mp3 : "res/music/sound_bomb.mp3",
-
-    //Default文件夹下的图片
-    Button_Disable_png : "res/Default/Button_Disable.png",
-    Button_Normal_png : "res/Default/Button_Normal.png",
-    Button_Press_png : "res/Default/Button_Press.png"
+    sound_bomb_mp3 : "res/music/sound_bomb.mp3"
 };
 
 var g_resources = [];

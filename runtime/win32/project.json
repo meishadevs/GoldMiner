@@ -2,7 +2,7 @@
     "project_type": "javascript",
 
     "debugMode" : 1,
-    "showFPS" : true,
+    "showFPS" : false,
     "frameRate" : 60,
     "id" : "gameCanvas",
     "renderMode" : 0,
@@ -12,7 +12,6 @@
 
     "jsList" : [
         "src/resource.js",
-        "src/app.js",
         "src/SceneStart.js",
         "src/Config.js",
         "src/Util.js",
@@ -22,6 +21,9 @@
         "src/SceneNvErGuo.js",
         "src/SceneHuoYanShan.js",
         "src/SceneLingShan.js",
-        "src/Mineral.js"
+        "src/Mineral.js",
+        "src/GameUi.js",
+        "src/GameLogic.js",
+        "src/GameAnimation.js"
     ]
 }
