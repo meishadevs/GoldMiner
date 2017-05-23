@@ -3,7 +3,7 @@
 
 ## 页面效果
 ### 游戏起始页面
-![](http://oqe8kte9y.bkt.clouddn.com/start.gif)
+![](http://oqe8kte9y.bkt.clouddn.com/start.gif) 
 
 ### 游戏场景选择页面
 ![](http://oqe8kte9y.bkt.clouddn.com/menu.gif)
