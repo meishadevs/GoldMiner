@@ -12,10 +12,10 @@
 ![](http://oqe8kte9y.bkt.clouddn.com/game.PNG)
 
 ### 赢了后展示的页面
-![](http://oqe8kte9y.bkt.clouddn.com/won.gif)
+![](http://oqe8kte9y.bkt.clouddn.com/won.PNG)
 
 ### 输了后展示的页面
-![](http://oqe8kte9y.bkt.clouddn.com/lost.gif)
+![](http://oqe8kte9y.bkt.clouddn.com/lost.PNG)
 
 ## 开发环境
 - **Cocos2d-js-3.6**
