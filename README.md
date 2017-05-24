@@ -1,17 +1,31 @@
-# 仿西游黄金矿工
-- 该游戏模仿了九秒社团上的开源项目西游黄金矿工   
-- 游戏中所有的美术和音效均来自九秒社团的开源项目西游黄金矿工   
-- 九秒社团的游戏使用的是Cocos2d-x-2.1.5开发的，而我这个游戏UI部分使用CocosStudio搭建的，游戏逻辑部分使用Cocos2d-js-3.6开发的   
-- 所以这款游戏可以同时移植到web平台和native平台上  
+# 西游黄金矿工
+西游黄金矿工是一款以黄金矿工玩法为基础，西游题材为背景的HTML5游戏，玩家需要在规定的时间内抓取宝物，同时需要达到过关分值方可过关。
 
-### 游戏在Google Chrome浏览器上的展示效果
-下图是游戏启动界面的展示效果  
-![](http://i.imgur.com/1O4MYlR.jpg)  
-  
-游戏场景选择界面  
-![](http://i.imgur.com/DoR9jRa.png)  
-  
-游戏界面  
-![](http://i.imgur.com/kpIFAgo.png)  
+## 页面效果
+### 游戏起始页面
+![](http://oqe8kte9y.bkt.clouddn.com/start.PNG) 
 
-  
+### 游戏场景选择页面
+![](http://oqe8kte9y.bkt.clouddn.com/menu.PNG)
+
+### 游戏页面
+![](http://oqe8kte9y.bkt.clouddn.com/game.PNG)
+
+### 赢了后展示的页面
+![](http://oqe8kte9y.bkt.clouddn.com/won.PNG)
+
+### 输了后展示的页面
+![](http://oqe8kte9y.bkt.clouddn.com/won.PNG)
+
+## 开发环境
+- **Cocos2d-js-3.6**
+- **CocosStudio**
+- **WebStrom**
+- **Chrome**
+
+## 游戏在线试玩的地址
+**[http://meishadevs.com/GoldMinerHtml5/](http://meishadevs.com/GoldMinerHtml5/)**   
+**游戏资源比较多，加载速度比较慢，打开连接后请耐心等待一会儿，建议使用Chrome浏览器打开游戏链接**
+
+## 遇到过的问题及解决方法
+**[Cocos2d-js开发的游戏运行出bug?](https://www.zhihu.com/question/52260806)**

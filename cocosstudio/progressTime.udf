@@ -1,7 +1,0 @@
-<UserData Version="3.10.0.0">
-  <Properties>
-    <Item Key="GuidesList">
-      <Value ctype="GuidesData" />
-    </Item>
-  </Properties>
-</UserData>
