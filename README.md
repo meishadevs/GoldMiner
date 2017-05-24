@@ -24,7 +24,7 @@
 - **Chrome**
 
 ## 游戏在线试玩的地址
-**[http://meishadevs.com/GoldMinerHtml5/](http://meishadevs.com/GoldMinerHtml5/)**   
+**[http://meishadevs.com/GoldMinerHtml5/html5/index.html](http://meishadevs.com/GoldMinerHtml5/html5/index.html)**   
 **游戏资源比较多，加载速度比较慢，打开连接后请耐心等待一会儿，建议使用Chrome浏览器打开游戏链接**
 
 ## 遇到过的问题及解决方法
