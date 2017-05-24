@@ -3,19 +3,19 @@
 
 ## 页面效果
 ### 游戏起始页面
-![](http://oqe8kte9y.bkt.clouddn.com/start.PNG) 
+![](http://meishadevs.com/GoldMinerHtml5/start.PNG) 
 
 ### 游戏场景选择页面
-![](http://oqe8kte9y.bkt.clouddn.com/menu.PNG)
+![](http://meishadevs.com/GoldMinerHtml5/menu.PNG)
 
 ### 游戏页面
-![](http://oqe8kte9y.bkt.clouddn.com/game.PNG)
+![](http://meishadevs.com/GoldMinerHtml5/game.PNG)
 
 ### 赢了后展示的页面
-![](http://oqe8kte9y.bkt.clouddn.com/won.PNG)
+![](http://meishadevs.com/GoldMinerHtml5/won.PNG)
 
 ### 输了后展示的页面
-![](http://oqe8kte9y.bkt.clouddn.com/won.PNG)
+![](http://meishadevs.com/GoldMinerHtml5/lost.PNG)
 
 ## 开发环境
 - **Cocos2d-js-3.6**
@@ -24,7 +24,7 @@
 - **Chrome**
 
 ## 游戏在线试玩的地址
-**[http://meishadevs.com/GoldMinerHtml5/](http://meishadevs.com/GoldMinerHtml5/)**   
+**[http://meishadevs.com/GoldMinerHtml5/html5/index.html](http://meishadevs.com/GoldMinerHtml5/html5/index.html)**   
 **游戏资源比较多，加载速度比较慢，打开连接后请耐心等待一会儿，建议使用Chrome浏览器打开游戏链接**
 
 ## 遇到过的问题及解决方法
