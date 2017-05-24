@@ -3,19 +3,19 @@
 
 ## 页面效果
 ### 游戏起始页面
-![](http://oqe8kte9y.bkt.clouddn.com/start.gif)
+![](http://oqe8kte9y.bkt.clouddn.com/start.PNG) 
 
 ### 游戏场景选择页面
-![](http://oqe8kte9y.bkt.clouddn.com/menu.gif)
+![](http://oqe8kte9y.bkt.clouddn.com/menu.PNG)
 
 ### 游戏页面
-![](http://oqe8kte9y.bkt.clouddn.com/game.gif)
+![](http://oqe8kte9y.bkt.clouddn.com/game.PNG)
 
 ### 赢了后展示的页面
-![](http://oqe8kte9y.bkt.clouddn.com/won.gif)
+![](http://oqe8kte9y.bkt.clouddn.com/won.PNG)
 
 ### 输了后展示的页面
-![](http://oqe8kte9y.bkt.clouddn.com/lost.gif)
+![](http://oqe8kte9y.bkt.clouddn.com/won.PNG)
 
 ## 开发环境
 - **Cocos2d-js-3.6**
