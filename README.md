@@ -3,7 +3,7 @@
 
 ## 页面效果
 ### 游戏起始页面
-![](http://oqe8kte9y.bkt.clouddn.com/start.PNG) 
+![](http://meishadevs.com/GoldMinerHtml5/start.PNG) 
 
 ### 游戏场景选择页面
 ![](http://oqe8kte9y.bkt.clouddn.com/menu.PNG)
