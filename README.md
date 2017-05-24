@@ -15,7 +15,7 @@
 ![](http://oqe8kte9y.bkt.clouddn.com/won.PNG)
 
 ### 输了后展示的页面
-![](http://oqe8kte9y.bkt.clouddn.com/lost.PNG)
+![](http://oqe8kte9y.bkt.clouddn.com/won.PNG)
 
 ## 开发环境
 - **Cocos2d-js-3.6**
