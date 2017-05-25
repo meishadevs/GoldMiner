@@ -17,7 +17,7 @@
 ### 输了后展示的页面
 ![](http://meishadevs.com/GoldMinerHtml5/lost.gif)
 
-## 开发环境
+## 开发工具
 - **Cocos2d-js-3.6**
 - **CocosStudio**
 - **WebStrom**
