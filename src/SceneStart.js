@@ -401,7 +401,7 @@ var StartLayer = cc.Layer.extend(
                     cc.audioEngine.playEffect(res.sound010_mp3);
                 }
 
-                window.location.href = "http://www.52h5game.com/"
+                window.location.href = "http://www.7k7k.com/tag/3271/index_2.htm#p-anchor"
             }
             break;
             default:
