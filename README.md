@@ -3,19 +3,19 @@
 
 ## 页面效果
 ### 游戏起始页面
-![](http://meishadevs.com/GoldMinerHtml5/start.gif) 
+![](http://meishadevs.com/GoldMiner/start.gif) 
 
 ### 游戏场景选择页面
-![](http://meishadevs.com/GoldMinerHtml5/menu.gif)
+![](http://meishadevs.com/GoldMiner/menu.gif)
 
 ### 游戏页面
-![](http://meishadevs.com/GoldMinerHtml5/game.gif)
+![](http://meishadevs.com/GoldMiner/game.gif)
 
 ### 赢了后展示的页面
-![](http://meishadevs.com/GoldMinerHtml5/won.gif)
+![](http://meishadevs.com/GoldMiner/won.gif)
 
 ### 输了后展示的页面
-![](http://meishadevs.com/GoldMinerHtml5/lost.gif)
+![](http://meishadevs.com/GoldMiner/lost.gif)
 
 ## 开发环境
 - **Cocos2d-js-3.6**
