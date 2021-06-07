@@ -3,7 +3,7 @@
 
 ## 游戏地址
 **[https://meishadevs.github.io/GoldMiner/html5/index.html](https://meishadevs.github.io/GoldMiner/html5/index.html)**     
-**游戏资源比较多，加载速度比较慢，打开连接后请耐心等待一会儿，建议使用Chrome浏览器打开游戏链接**
+**游戏资源比较多，加载速度比较慢，打开连接后请耐心等待一会儿，建议使用 Chrome 浏览器打开游戏链接**
 
 ## 页面效果
 ### 游戏起始页面
