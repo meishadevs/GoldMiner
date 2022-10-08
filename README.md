@@ -29,17 +29,19 @@
 
 ## 运行项目
 
-  # 将项目克隆到本地
-  git clone https://github.com/meishadevs/GoldMiner.git
+```
+# 将项目克隆到本地
+git clone https://github.com/meishadevs/GoldMiner.git
 
-  # 全局安装 live-server
-  npm install -g live-server
+# 全局安装 live-server
+npm install -g live-server
 
-  # 进入项目目录下
-  cd GoldMiner
+# 进入项目目录下
+cd GoldMiner
 
-  # 运行项目
-  live-server
+# 运行项目
+live-server
+ ```
 
 ## 遇到过的问题及解决方法
 **[Cocos2d-js开发的游戏运行出bug?](https://www.zhihu.com/question/52260806)**
